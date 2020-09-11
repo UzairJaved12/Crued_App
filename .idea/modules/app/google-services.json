@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "30716113497",
+    "firebase_url": "https://inlaid-backbone-286711.firebaseio.com",
+    "project_id": "inlaid-backbone-286711",
+    "storage_bucket": "inlaid-backbone-286711.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30716113497:android:27c85dbbe1ea5287b03748",
+        "android_client_info": {
+          "package_name": "com.afa.deeplinking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30716113497-ifhrj7qcodt3ae3vv5fdn2bi9jmneohr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.afa.deeplinking",
+            "certificate_hash": "2ff71be1224e62918f112882942ef0ae2c36b09d"
+          }
+        },
+        {
+          "client_id": "30716113497-1cnc05bcfho83suudo79jplq942k4bhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC06j4JtAvqNcN-8ALO1QdLnrXzbASwde0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30716113497-1cnc05bcfho83suudo79jplq942k4bhd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.careem.adma",
+    "sha256_cert_fingerprints":
+    ["EC:59:FE:CE:EF:9C:0A:18:2E:00:9F:89:B0:20:06:D1:94:BF:35:F5:81:63:2A:EF:CF:12:BA:D0:6D:EB:A2:42"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://www.careem.com"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.careem.adma",
+    "sha256_cert_fingerprints":
+    ["EC:59:FE:CE:EF:9C:0A:18:2E:00:9F:89:B0:20:06:D1:94:BF:35:F5:81:63:2A:EF:CF:12:BA:D0:6D:EB:A2:42"]
+  }
+}]
